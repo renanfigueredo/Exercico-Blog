@@ -1,0 +1,20 @@
+.quemSouEu {
+  display: flex;
+  align-items: center;
+  width: auto;
+  max-width: 50%;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.quemSouEu__minhaImagem {
+  border-radius: 15%;
+  margin-top: 1%;
+  height: 200px;
+  width: 250px;
+}
+.quemSouEu__descricao {
+  padding-left: 15px;
+}
+.quemSouEu__descricao--Destaque {
+  font-size: 35px;
+}
